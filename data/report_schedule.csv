@@ -1,0 +1,4 @@
+report_name,frequency,audience,format
+daily_trade_summary,Daily (business days),Operations (demo),CSV + text summary
+account_activity_summary,Daily (business days),Client reporting (demo),CSV
+positions_snapshot,Month-end,Finance (demo),CSV

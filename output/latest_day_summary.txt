@@ -1,0 +1,13 @@
+Financial Reporting Automation - Latest Day Summary
+Data: SYNTHETIC demo data - not employer data.
+
+Latest trade date : 2025-04-30
+Trades            : 23 (11 buys / 12 sells)
+Total quantity    : 5400
+Total notional    : $1,211,347.50
+Control total     : $26,655,064.50 across 545 trades - SUCCESS
+
+Demo-scenario effort framing (illustrative, synthetic):
+  Manual process : ~45 min/day of copy, format, check, send
+  Automated      : ~2 min/day to review the audit log
+  Framing only - not a measured employer result.

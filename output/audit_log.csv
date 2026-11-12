@@ -1,0 +1,2 @@
+run_timestamp_utc,trades_read,positions_read,files_written,control_total,status,data_note
+2026-11-12T00:14:10Z,545,43,daily_trade_summary.csv; account_activity_summary.csv; positions_snapshot.csv; latest_day_summary.txt,26655064.5,SUCCESS,Synthetic demo data
